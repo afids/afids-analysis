@@ -1,6 +1,6 @@
 # afids-analysis
 
-Analysis for the afids manuscript prepared in notebook form.
+Code and data for the preprint: A framework for evaluating correspondence between brain images using anatomical fiducials.
 
 1. PHASE1: afids template validation
 2. PHASE2: afids OAS1 subject validation
