@@ -1,0 +1,33 @@
+AFID,Description,AFRE for MNI2009b: Asym vs Sym,Star for MNI2009b: Asym vs Sym,AFRE for BigBrain-Sym vs MNI2009b-Sym,Star for BigBrain-Sym vs MNI2009b-Sym
+01,AC,0.2,,0.74,
+02,PC,0.2,,0.45,
+03,infracollicular sulcus,0.98,,6.36,*
+04,PMJ,0.4,,0.61,
+05,superior interpeduncular fossa,0.67,,1.62,
+06,R superior LMS,0.14,,1.23,
+07,L superior LMS,0.56,,1.34,
+08,R inferior LMS,0.71,,1.28,
+09,L inferior LMS,0.68,,2.78,*
+10,culmen,0.21,,9.27,*
+11,intermammillary sulcus,0.57,,0.52,
+12,R MB,0.53,,1.13,
+13,L MB,0.75,,1.14,
+14,pineal gland,0.41,,4.42,*
+15,R LV at AC,0.51,,1.98,
+16,L LV at AC,0.86,,2.05,*
+17,R LV at PC,0.89,,1.27,
+18,L LV at PC,0.62,,1.31,
+19,genu of CC,0.42,,0.65,
+20,splenium,0.1,,2.23,*
+21,R AL temporal horn,1.09,,0.7,
+22,L AL temporal horn,2.45,*,4.69,*
+23,R superior AM temporal horn,1.07,,0.89,
+24,L superior AM temporal horn,0.31,,1.67,
+25,R inferior AM temporal horn,0.69,,0.83,
+26,L inferior AM temporal horn,0.98,,1.88,
+27,R indusium griseum origin,2.81,*,1.21,
+28,L indusium griseum origin,2.29,*,0.74,
+29,R ventral occipital horn,1.63,,2.54,*
+30,L ventral occipital horn,2,*,5.88,*
+31,R olfactory sulcal fundus,1.1,,2.62,*
+32,L olfactory sulcal fundus,1.24,,3.06,*

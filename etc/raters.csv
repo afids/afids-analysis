@@ -1,0 +1,9 @@
+rater_id,imaging_exp,neuro_exp,slicer_exp,description
+Rater01,24,24,24,undergrad_student
+Rater02,0,0,0,medical_student
+Rater03,8,0,8,undergrad_student
+Rater04,24,6,0,grad_student
+Rater05,0,24,0,grad_student
+Rater06,24,12,12,grad_student
+Rater07,12,48,12,grad_student
+Rater08,0,0,0,undergrad_student

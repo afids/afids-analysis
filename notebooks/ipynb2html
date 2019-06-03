@@ -1,0 +1,5 @@
+#!/bin/bash
+jupyter nbconvert PHASE1_template_validation.ipynb --to=html --TemplateExporter.exclude_input=True
+jupyter nbconvert PHASE2_subject_validation.ipynb --to=html --TemplateExporter.exclude_input=True
+jupyter nbconvert PHASE3_subject_to_template.ipynb --to=html --TemplateExporter.exclude_input=True
+jupyter nbconvert PHASE4_template_to_template.ipynb --to=html --TemplateExporter.exclude_input=True
