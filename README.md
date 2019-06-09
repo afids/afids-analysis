@@ -1,7 +1,10 @@
 # afids-analysis
 
-Code and data for the preprint: A framework for evaluating correspondence between brain images using anatomical fiducials.
+Manuscript entitled: A framework for evaluating correspondence between brain images using anatomical fiducials.
+* Preprint available at: https://www.biorxiv.org/content/10.1101/460675v2
+* Accepted manuscript at: https://doi.org/10.1002/hbm.24693
 
+Code and data below for the associated manuscript:
 1. PHASE1: afids template validation
 2. PHASE2: afids OAS1 subject validation
 3. PHASE3: afids for evaluating subject-to-template registration
