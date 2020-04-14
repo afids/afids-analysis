@@ -10,7 +10,7 @@ Code and data below for the associated manuscript:
 3. PHASE3: afids for evaluating subject-to-template registration
 4. PHASE4: afids for evaluating template-to-template registration
 
-Also afids validator available in alpha form at: http://fidvalidator.pythonanywhere.com
+Also afids validator available in alpha form at: http://fidvalidator.herokuapp.com
 
 ## PHASE1
 
